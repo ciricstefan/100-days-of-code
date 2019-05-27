@@ -1,22 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 27, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've gone through Basic HTML,HTML5 & CSS sections on freeCodeCamp
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Already tried finishing freeCodeCamp curriculum a long time ago but never had enough time for it. Now with 100daysofcode I plan on finishing it, getting certifications I am interested in and building projects for my portfolio website.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to tweet:** [First day tweet](https://twitter.com/csstefan/status/1133129353934659585)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
