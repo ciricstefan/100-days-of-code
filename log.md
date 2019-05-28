@@ -9,7 +9,7 @@
 **Link to tweet:** [First day tweet](https://twitter.com/csstefan/status/1133129353934659585)
 
 **Link to sections** 
-[Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+[Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) // 
 [Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
 
