@@ -23,3 +23,17 @@
 
 **Link to sections** [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
+
+### Day 3: May 29, 2019
+
+**Today's Progress**: I've gone through Applied Accessibility,Responsive Web Desing Principles,CSS Flexbox and Grid sections on freeCodeCamp
+
+**Thoughts:** I never thought about accessibility before, but from now on I plan on implementing every principle I learned today.
+
+**Link to tweet:** [Third day tweet](https://twitter.com/csstefan/status/1133850306612224005)
+
+**Link to sections** 
+[Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility) // 
+[Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) // 
+[CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox) // 
+[CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
