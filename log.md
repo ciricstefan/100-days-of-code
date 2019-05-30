@@ -43,7 +43,7 @@
 
 **Today's Progress**: I've built 2 projects. One is Mark Zuckerberg Tribute page. And the other is freeCodeCamp Survey form.
 
-**Thoughts:** I never thought about accessibility before, but from now on I plan on implementing every principle I learned today.
+**Thoughts:** Choosing colors for the page seems much harder than I expected... So many choices!
 
 **Link to tweet:** [Fourth day tweet](https://twitter.com/csstefan/status/1134212810232274944)
 
