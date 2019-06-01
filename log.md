@@ -61,3 +61,15 @@
 **Link to sections** 
 [Product Landing Page](https://ciricstefan.github.io/fcc-landing-page/) // 
 [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+
+### Day 6: June 01, 2019
+
+**Today's Progress**: Finished Product Landing Page
+
+**Thoughts:** 2 more projects for Responsive Web Design Certification
+
+**Link to tweet:** [Sixth day tweet](https://twitter.com/csstefan/status/1134936295153831936)
+
+**Link to sections** 
+[Product Landing Page](https://ciricstefan.github.io/fcc-landing-page/)
