@@ -165,6 +165,7 @@
 ### Day 15: June 12, 2019
 
 **Today's Progress**: Today I learned how to:
+
                         - Create JSX elements
                         - Create a Stateless Functional Component
                         - Create a Component using ES6 class syntax
@@ -172,6 +173,22 @@
                         - Render Components using ReactDOM.render() method
 
 **Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1138869558637486082)
+
+**Link to sections** 
+[React](https://learn.freecodecamp.org/front-end-libraries/react)
+
+
+### Day 16: June 13, 2019
+
+**Today's Progress**: Today I learned how to:
+
+                        - Use Default Props
+                        - Use PropTypes
+                        - Create a Stateful Component
+                        - Render state in the UI
+                        - Create a Controlled Input and Form
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1139230844369985537)
 
 **Link to sections** 
 [React](https://learn.freecodecamp.org/front-end-libraries/react)
