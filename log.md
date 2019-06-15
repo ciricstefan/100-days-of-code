@@ -202,3 +202,13 @@
 
 **Link to sections** 
 [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+
+### Day 18: June 15, 2019
+
+**Today's Progress**: Finished React section on freeCodeCamp.
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1139992054988181511)
+
+**Link to sections** 
+[React](https://learn.freecodecamp.org/front-end-libraries/react)
