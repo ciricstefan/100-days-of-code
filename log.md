@@ -258,3 +258,13 @@
 **Link to tutorial** 
 [Tutorial](https://www.youtube.com/watch?v=wPQ1-33teR4)
 [Portfolio Website](https://ciricstefan.github.io/)
+
+
+### Day 28: July 14, 2019
+
+**Today's Progress**: Started working on Random Quote Machine project. Finished all of the functionality without any styling.
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1150507597499392007)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
