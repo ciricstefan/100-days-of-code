@@ -298,3 +298,14 @@
 
 **Link to tutorial** 
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+
+
+### Day 32: July 18, 2019
+
+**Today's Progress**: Finished coding challenges and applied for Microverse Full Time Program, worked on Markdown Previewer project
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1151966968087535616)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
+[Microverse](https://www.microverse.org/)
