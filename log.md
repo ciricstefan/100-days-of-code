@@ -309,3 +309,13 @@
 **Link to tutorial** 
 [Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 [Microverse](https://www.microverse.org/)
+
+
+### Day 33: July 19, 2019
+
+**Today's Progress**: Finished all of the functionality on Markdown Previewer project
+
+**Link to tweet:** [Tweet](https://twitter.com/csstefan/status/1152319996804182017)
+
+**Link to tutorial** 
+[Project Task](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
